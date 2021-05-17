@@ -1,1 +1,1 @@
-document.getElementById("copyRight").innerHTML = "Copyright 19_DE";
+document.getElementById("copyRight").innerHTML = "Copyright Zeke Yeager";
