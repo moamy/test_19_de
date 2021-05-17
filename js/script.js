@@ -1,0 +1,1 @@
+document.getElementById("copyRight").innerHTML = "Copyright 19_DE";
